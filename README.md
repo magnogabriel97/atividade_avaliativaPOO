@@ -5,3 +5,5 @@ Professor, a minha ideia foi desenvolver classes e métodos para criar um novo t
 No caso eu adicionei o palmeiras como exemplo, assim como instanciei novos jogadores, o estádio, etc.
 Fiz um @override do método equals() pra eu validar caso um jogador repetido seja adicionado e também adicionei algumas verificações dentro das classes.
 Obrigado!
+
+Magno - 18/09/2020
